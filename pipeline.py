@@ -18,9 +18,6 @@ from langchain_community.graphs import Neo4jGraph
 dotenv.load_dotenv()
 
 
-NEO4J_URI="neo4j+s://950d6d98.databases.neo4j.io"
-NEO4J_USERNAME="neo4j"
-NEO4J_PASSWORD="lNBWqq3itd-SZMB7CypirTXTCjCu9SeXt7iliIRbR1g"
 
 
 
