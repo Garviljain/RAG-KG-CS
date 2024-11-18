@@ -1,6 +1,6 @@
 # Knowledge Graph RAG with Local LLM
 
-This is an **<*ongoing*>** personal project aimed to practice building a pipeline to feed a Neo4J database from unstructured data from PDFs containing (fictional) crime reports, and then use a Graph RAG to query the database in natural language.
+This is an **<*ongoing*>** personal project aimed to practice building a pipeline to feed a Neo4J database from unstructured data from hack the box machines walkthroughs, and then use a Graph RAG to query the database in natural language.
 
 The pipeline is based on [Neo4J - Enhancing the Accuracy of RAG Applications With Knowledge Graphs](https://neo4j.com/developer-blog/enhance-rag-knowledge-graph/?mkt_tok=NzEwLVJSQy0zMzUAAAGTBn-WDr1KcupEPExYL6rh_DaP3R0h5gWQFxWGRm6dXiew5-oAnYBbvXvedknjyhyojNebyUa0ywWZwIkZQRtiJ-9x6k22vY3ru2Ztp7PjlgN5Bbs) article.
 
